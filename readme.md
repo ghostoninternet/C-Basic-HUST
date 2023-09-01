@@ -1,3 +1,1 @@
-#HELLO
-#HI HI HI
-#HAHAHA
+# All C Basic Exercise and Final Exam
