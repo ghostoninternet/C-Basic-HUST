@@ -1,0 +1,28 @@
+DG01
+Dau goi dau Clear 500ml
+Unilever
+5
+DG02
+Dau goi dau Clear 1000ml
+Unilever
+12
+DG03
+Dau goi dau Sunsilk 300ml
+Unilever
+15
+DR01
+Kem danh rang colgate 200gr
+Unilever
+24
+DR02
+Ban chai rang colgate
+Unilever
+12
+DR02
+Ban chai rang colgate
+Unilever
+6
+DG04
+Dau goi dau Dove 300ml
+Unilever
+15

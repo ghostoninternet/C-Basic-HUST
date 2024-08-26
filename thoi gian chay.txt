@@ -1,0 +1,5 @@
+So luong phan tu 100000
+
+Thoi gian bubblesort voi 100000 phan tu: 20.804500
+
+Thoi gian selectionsort voi 100000 phan tu: 5.349671

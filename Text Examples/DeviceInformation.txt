@@ -1,0 +1,16 @@
+3
+MH012
+Man hinh may tinh 15.4 inch
+2020
+Dell
+D5 304
+CASE012
+Case may tinh
+2020
+HP
+D5 304
+PJ001
+May chieu
+2018
+Maxell
+D5 303

@@ -1,0 +1,1 @@
+Hello everyone, today we gonna talk about machine learning definition and some of its basic notation.

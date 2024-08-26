@@ -1,0 +1,9 @@
+-10 900000 90 FX-580
+10 1000000 100 Valentine Chocolate
+14 1200000 80 Vo Campus
+15 1500000 85 Giay Nike
+20 1250000 20 Vot Cau Long Yonex
+22 900000 120 Vo Campus 80 trang
+23 1200000 120 Giay Nike
+24 1500000 90 Vot Cau Long Yonex
+
